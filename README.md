@@ -1,0 +1,2 @@
+# MongoDbKodlari
+Temel MongoDbKodlari
